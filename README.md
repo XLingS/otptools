@@ -1,5 +1,8 @@
 # otptools
 简单的otp生成工具，支持HOTP（RFC4226)和TOTP（RFC6238)，目前没有做太多的错误处理
+# Install
+配置好环境后，可以直接
+go install github.com/XLingS/otptools
 # Usage
 Usage of ./otptools:  
   -a string  
